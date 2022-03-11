@@ -23,11 +23,7 @@ local Loader = Library:Create("ScreenGui", {
     Enabled = false
 })
 
-if syn.protect_gui then
-    syn.protect_gui(Loader)
-elseif get_hidden_gui then
-    get_hidden_gui(Loader)
-end
+
 
 if gethui then
     Loader.Parent = gethui()
