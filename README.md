@@ -8,7 +8,7 @@ universal aimbot and visuals for roblox
 
 # script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/coastss/universal/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ghastlytim/universal/main/main.lua"))()
 ```
 
 # change log
